@@ -4,6 +4,7 @@ package cn.bdqn.bean;
  * ”√ªß
  */
 public class User {
+	private String test;
 	private int id;
 	private String name;
 
